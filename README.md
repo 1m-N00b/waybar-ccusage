@@ -4,7 +4,7 @@ A Waybar widget script that shows how much you'd be paying for Claude Code if yo
 
 ## Dependencies
 
-- `[ccusage](https://github.com/ryoppippi/ccusage)`
+- [ccusage](https://github.com/ryoppippi/ccusage)
 - `jq`
 
 ## Configuration
